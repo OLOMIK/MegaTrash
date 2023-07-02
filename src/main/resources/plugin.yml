@@ -1,0 +1,7 @@
+name: MegaTrash
+version: '${project.version}'
+main: com.olomowo.megatrash.MegaTrash
+api-version: '1.19'
+commands:
+  trash:
+    description: 'opens a trash.'
